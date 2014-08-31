@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "tekkraft",
+  "name": "TekKraft",
+  "description": "Basic Ore Proccessing to Robotic Invasions",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Snapp"],["Haden"]
+  "credits": "Haden for helping me, Pahimar for Let's Mod Reboot",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
