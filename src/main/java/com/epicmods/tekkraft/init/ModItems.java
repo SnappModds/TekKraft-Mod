@@ -8,10 +8,9 @@ import cpw.mods.fml.common.registry.GameRegistry;
  * Created by SnappGamez on 8/31/2014.
  */
 public class ModItems {
-    public static final ItemTek tekkanium = new ItemTekkanium()
+    public static final ItemTek tekkanium = new ItemTekkanium();
 
-    public static void init()
-    (
-            GameRegistry.registerItem(tekkanium,"Tekkanium")
-            )
+    public static void init() {
+        GameRegistry.registerItem(tekkanium,"Tekkanium")
+    }
 }
