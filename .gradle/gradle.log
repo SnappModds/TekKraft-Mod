@@ -7,79 +7,182 @@ The assetDir is deprecated!  Use runDir instead! runDir set to eclipse/assets/..
  R4wk, ZeuX, IngisKahn      
  MCP Data version : unknown
 ****************************
-:ideaModule
-Download https://libraries.minecraft.net/net/minecraft/launchwrapper/1.9/launchwrapper-1.9-sources.jar
-Download http://repo1.maven.org/maven2/org/ow2/asm/asm-debug-all/4.1/asm-debug-all-4.1-sources.jar
-Download http://repo1.maven.org/maven2/org/ow2/asm/asm-debug-all/4.1/asm-debug-all-4.1-javadoc.jar
-Download http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3-sources.jar
-Download http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3-javadoc.jar
-Download http://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1-sources.jar
-Download http://repo1.maven.org/maven2/com/typesafe/config/1.2.1/config-1.2.1-javadoc.jar
-Download http://repo1.maven.org/maven2/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0-sources.jar
-Download http://repo1.maven.org/maven2/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0-javadoc.jar
-Download http://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1-sources.jar
-Download http://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1-javadoc.jar
-Download http://repo1.maven.org/maven2/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2-sources.jar
-Download http://repo1.maven.org/maven2/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2-javadoc.jar
-Download http://repo1.maven.org/maven2/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2-sources.jar
-Download http://repo1.maven.org/maven2/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2-javadoc.jar
-Download http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1-sources.jar
-Download http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1-javadoc.jar
-Download http://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1-sources.jar
-Download http://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1-javadoc.jar
-Download http://repo1.maven.org/maven2/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5-sources.jar
-Download http://repo1.maven.org/maven2/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5-javadoc.jar
-Download http://repo1.maven.org/maven2/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1-sources.jar
-Download http://repo1.maven.org/maven2/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1-javadoc.jar
-Download http://repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3-sources.jar
-Download http://repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3-javadoc.jar
-Download http://repo1.maven.org/maven2/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3-sources.jar
-Download http://repo1.maven.org/maven2/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3-javadoc.jar
-Download http://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2-sources.jar
-Download http://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2-javadoc.jar
-Download http://repo1.maven.org/maven2/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3-sources.jar
-Download http://repo1.maven.org/maven2/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3-javadoc.jar
-Download https://libraries.minecraft.net/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2-sources.jar
-Download https://libraries.minecraft.net/com/paulscode/codecjorbis/20101023/codecjorbis-20101023-sources.jar
-Download https://libraries.minecraft.net/com/paulscode/codecwav/20101023/codecwav-20101023-sources.jar
-Download https://libraries.minecraft.net/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123-sources.jar
-Download https://libraries.minecraft.net/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824-sources.jar
-Download https://libraries.minecraft.net/com/paulscode/soundsystem/20120107/soundsystem-20120107-sources.jar
-Download http://repo1.maven.org/maven2/io/netty/netty-all/4.0.10.Final/netty-all-4.0.10.Final-sources.jar
-Download http://repo1.maven.org/maven2/io/netty/netty-all/4.0.10.Final/netty-all-4.0.10.Final-javadoc.jar
-Download http://repo1.maven.org/maven2/commons-io/commons-io/2.4/commons-io-2.4-sources.jar
-Download http://repo1.maven.org/maven2/commons-io/commons-io/2.4/commons-io-2.4-javadoc.jar
-Download http://repo1.maven.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9-sources.jar
-Download http://repo1.maven.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9-javadoc.jar
-Download http://repo1.maven.org/maven2/net/java/jinput/jinput/2.0.5/jinput-2.0.5-sources.jar
-Download http://repo1.maven.org/maven2/net/java/jinput/jinput/2.0.5/jinput-2.0.5-javadoc.jar
-Download http://repo1.maven.org/maven2/net/java/jutils/jutils/1.0.0/jutils-1.0.0-sources.jar
-Download http://repo1.maven.org/maven2/net/java/jutils/jutils/1.0.0/jutils-1.0.0-javadoc.jar
-Download http://repo1.maven.org/maven2/com/google/code/gson/gson/2.2.4/gson-2.2.4-sources.jar
-Download http://repo1.maven.org/maven2/com/google/code/gson/gson/2.2.4/gson-2.2.4-javadoc.jar
-Download https://libraries.minecraft.net/com/mojang/authlib/1.5.16/authlib-1.5.16-sources.jar
-Download http://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9-sources.jar
-Download http://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9-javadoc.jar
-Download http://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9-sources.jar
-Download http://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9-javadoc.jar
-Download http://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl/2.9.1/lwjgl-2.9.1-sources.jar
-Download http://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl/2.9.1/lwjgl-2.9.1-javadoc.jar
-Download http://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl_util/2.9.1/lwjgl_util-2.9.1-sources.jar
-Download http://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl_util/2.9.1/lwjgl_util-2.9.1-javadoc.jar
-Download http://repo1.maven.org/maven2/org/scala-lang/scala-actors/2.11.0/scala-actors-2.11.0-sources.jar
-Download http://repo1.maven.org/maven2/org/scala-lang/scala-actors/2.11.0/scala-actors-2.11.0-javadoc.jar
-Download http://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-sources.jar
-Download http://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-javadoc.jar
-Download http://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1-sources.jar
-Download http://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1-javadoc.jar
-Download http://repo1.maven.org/maven2/com/google/guava/guava/17.0/guava-17.0-sources.jar
-Download http://repo1.maven.org/maven2/com/google/guava/guava/17.0/guava-17.0-javadoc.jar
-Download http://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2-sources.jar
-Download http://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2-javadoc.jar
-:ideaProject
-:ideaWorkspace
-:idea
+:downloadClient SKIPPED
+:downloadServer SKIPPED
+:extractUserDev UP-TO-DATE
+:mergeJars SKIPPED
+:applyBinPatches SKIPPED
+:downloadMcpTools UP-TO-DATE
+:genSrgs SKIPPED
+:deobfBinJar SKIPPED
+:compileApiJava UP-TO-DATE
+:processApiResources UP-TO-DATE
+:apiClasses UP-TO-DATE
+:sourceMainJava UP-TO-DATE
+:compileJavawarning: [options] bootstrap class path not set in conjunction with -source 1.6
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\TekKraft.java:26: error: <identifier> expected
+    public void preInit(FMLPreInitializationEvent)
+                                                 ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\TekKraft.java:26: error: ';' expected
+    public void preInit(FMLPreInitializationEvent)
+                                                  ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\TekKraft.java:29: error: <identifier> expected
+        FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
+                                 ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\TekKraft.java:29: error: ';' expected
+        FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
+                                   ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\TekKraft.java:30: error: <identifier> expected
+        LogHelper.info("Boot Complete! Starting Diagnostics...")
+                      ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\TekKraft.java:30: error: illegal start of type
+        LogHelper.info("Boot Complete! Starting Diagnostics...")
+                       ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\TekKraft.java:30: error: ';' expected
+        LogHelper.info("Boot Complete! Starting Diagnostics...")
+                                                                ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\TekKraft.java:33: error: illegal start of type
+            )
+            ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\TekKraft.java:33: error: ';' expected
+            )
+             ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\TekKraft.java:34: error: <identifier> expected
+    public void init(FMLInitializationEvent)
+                                           ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\TekKraft.java:34: error: ';' expected
+    public void init(FMLInitializationEvent)
+                                            ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\TekKraft.java:38: error: <identifier> expected
+    public void init(FMLPostInitializationEvent)
+                                               ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\TekKraft.java:38: error: ';' expected
+    public void init(FMLPostInitializationEvent)
+                                                ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\configuration\ConfigurationHandler.java:11: error: ';' expected
+    public static void init(File configFile)
+                                            ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\configuration\ConfigurationHandler.java:15: error: illegal start of type
+            try
+            ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\configuration\ConfigurationHandler.java:17: error: <identifier> expected
+                    configuration.load();
+                                      ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\configuration\ConfigurationHandler.java:17: error: ';' expected
+                    configuration.load();
+                                       ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\configuration\ConfigurationHandler.java:20: error: illegal start of type
+                    )
+                    ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\configuration\ConfigurationHandler.java:20: error: ';' expected
+                    )
+                     ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\configuration\ConfigurationHandler.java:21: error: illegal start of type
+            catch (Exception e)
+                  ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\configuration\ConfigurationHandler.java:21: error: ';' expected
+            catch (Exception e)
+                            ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\configuration\ConfigurationHandler.java:21: error: <identifier> expected
+            catch (Exception e)
+                              ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\configuration\ConfigurationHandler.java:22: error: illegal start of type
+                            (
+                            ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\configuration\ConfigurationHandler.java:22: error: <identifier> expected
+                            (
+                             ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\configuration\ConfigurationHandler.java:24: error: ';' expected
+                            )
+                             ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\configuration\ConfigurationHandler.java:26: error: illegal start of type
+            (
+            ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\configuration\ConfigurationHandler.java:27: error: ';' expected
+            configuration.save();
+                         ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\configuration\ConfigurationHandler.java:27: error: invalid method declaration; return type required
+            configuration.save();
+                          ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\configuration\ConfigurationHandler.java:28: error: illegal start of type
+            )
+            ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\configuration\ConfigurationHandler.java:28: error: ';' expected
+            )
+             ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\init\ModItems.java:14: error: ';' expected
+        GameRegistry.registerItem(tekkanium,"Tekkanium")
+                                                        ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\item\ItemTek.java:9: error: ';' expected
+    public ItemTek()
+                    ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\item\ItemTek.java:12: error: illegal start of type
+            )
+            ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\item\ItemTek.java:12: error: ';' expected
+            )
+             ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\item\ItemTek.java:13: error: reached end of file while parsing
+}
+ ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\item\ItemTekkanium.java:7: error: ';' expected
+    public ItemTekkanium()
+                          ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\reference\Reference.java:4: error: unclosed character literal
+    public static final String MOD_ID = 'tekkraft'
+                                        ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\reference\Reference.java:4: error: illegal line end in character literal
+    public static final String MOD_ID = 'tekkraft'
+                                                 ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\reference\Reference.java:5: error: unclosed character literal
+    public static final String MOD_NAME = 'TekKraft'
+                                          ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\reference\Reference.java:5: error: illegal line end in character literal
+    public static final String MOD_NAME = 'TekKraft'
+                                                   ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\reference\Reference.java:6: error: unclosed character literal
+    public static final String VERSION = '1.7.10-b1.0.0'
+                                         ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\reference\Reference.java:6: error: illegal start of type
+    public static final String VERSION = '1.7.10-b1.0.0'
+                                           ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\reference\Reference.java:6: error: <identifier> expected
+    public static final String VERSION = '1.7.10-b1.0.0'
+                                             ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\reference\Reference.java:6: error: ';' expected
+    public static final String VERSION = '1.7.10-b1.0.0'
+                                                ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\reference\Reference.java:6: error: <identifier> expected
+    public static final String VERSION = '1.7.10-b1.0.0'
+                                                   ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\reference\Reference.java:6: error: illegal start of type
+    public static final String VERSION = '1.7.10-b1.0.0'
+                                                     ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\reference\Reference.java:6: error: illegal line end in character literal
+    public static final String VERSION = '1.7.10-b1.0.0'
+                                                       ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\reference\Reference.java:7: error: ';' expected
+    public static final String CLIENT_PROXY_CLASS = "com.epicmods.tekkraft.proxy.ClientProxy"
+^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\reference\Reference.java:7: error: ';' expected
+    public static final String CLIENT_PROXY_CLASS = "com.epicmods.tekkraft.proxy.ClientProxy"
+                                                                                             ^
+C:\Users\SnappGamez\Desktop\TekKraft-Mod\build\sources\java\com\epicmods\tekkraft\reference\Reference.java:8: error: ';' expected
+    public static final String SERVER_PROXY_CLASS = "com.epicmods.tekkraft.proxy.ServerProxy"
+                                                                                             ^
+50 errors
+1 warning
+ FAILED
 
-BUILD SUCCESSFUL
+FAILURE: Build failed with an exception.
 
-Total time: 7 mins 41.391 secs
+* What went wrong:
+Execution failed for task ':compileJava'.
+> Compilation failed; see the compiler error output for details.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+BUILD FAILED
+
+Total time: 18.937 secs
